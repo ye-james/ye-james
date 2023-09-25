@@ -2,12 +2,12 @@
 
 ---
 
-##### My most recent work is on [PerfSSR](https://github.com/oslabs-beta/PerfSSR), an open source Next.js application tracer & performance analytics chrome extension
+#### My most recent work is on [PerfSSR](https://github.com/oslabs-beta/PerfSSR), an open source Next.js application tracer & performance analytics chrome extension
 
 ---
 
 ### 💻 Tech Stack
-
+<p float='left'>
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="25" height="25">
 <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="25" height="25">
@@ -29,6 +29,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" width="25" height="25">
+</p>
 
 ---
 

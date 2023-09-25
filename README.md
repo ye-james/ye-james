@@ -1,7 +1,6 @@
 <h1> Hi there! 👋 I'm James, a full-stack developer with a frontend focus </h1>
 
-<h4> My most recent work is on <a href="https://github.com/oslabs-beta/PerfSSR">PerfSSR</a>, an open source Next.js application tracer & performance analytics chrome extension </h4>
-
+<h4>My most recent work is on <a href="https://github.com/oslabs-beta/PerfSSR">PerfSSR</a>, an open source Next.js application tracer & performance analytics chrome extension </h4>
 
 <h2> 💻 Tech Stack </h2>
 <p float='left'>

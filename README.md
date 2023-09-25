@@ -1,18 +1,15 @@
-### Hi there! 👋 I'm James, a full-stack developer with a frontend focus
+<h1> Hi there! 👋 I'm James, a full-stack developer with a frontend focus </h1>
 
----
+<h4> My most recent work is on <a href="https://github.com/oslabs-beta/PerfSSR">PerfSSR</a>, an open source Next.js application tracer & performance analytics chrome extension </h4>
 
-#### My most recent work is on [PerfSSR](https://github.com/oslabs-beta/PerfSSR), an open source Next.js application tracer & performance analytics chrome extension
 
----
-
-### 💻 Tech Stack
+<h2> 💻 Tech Stack </h2>
 <p float='left'>
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="25" height="25">
 <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="25" height="25">
-<img src="	https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="25" height="25">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="SASS" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TailwindCSS" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="25" height="25">
@@ -31,7 +28,6 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" width="25" height="25">
 </p>
 
----
 
 - 🔭 I’m currently working on becoming a TypeScript and Next.js expert
 - 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" width="25" height="25">
@@ -43,4 +39,4 @@
     - NBA<img src="https://logos-world.net/wp-content/uploads/2020/05/Golden-State-Warriors-logo.png" alt="Warriors icon" width="50" height="25">
     - NFL <img src="https://assets.stickpng.com/images/580b585b2edbce24c47b2b55.png" alt="Warriors icon" width="30" height="20">
 
-<a href="https://www.linkedin.com/in/jamesye1/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Linked In Profile" width="25" height="25"></a>
+<a href="https://www.linkedin.com/in/jamesye1/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Linked In Profile" width="25" height="25">  **Lets Connect!** </a>
